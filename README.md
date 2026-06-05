@@ -108,6 +108,8 @@ As a SOC analyst, I would:
 
 This room provided practical insight into how human behavior can become an attack vector and how organizations can reduce risk through awareness training, security policies, and technical controls. The exercises reinforced the role of SOC analysts in identifying threats, protecting users, and responding to security incidents.
 
+![Image Alt](image_url)(https://github.com/diwakarkandel88-CyberD/TryHackMe---Humans-as-Attack-Vectors/blob/a5977603cbba8c95873ea78260887f717260341c/Screenshot%202026-06-05%20201837.png)
+
 
 
 
